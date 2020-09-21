@@ -1,0 +1,19 @@
+Tutorial curso omnistack
+
+-Criar projeto node
+	npm init -y
+
+-lib npm install
+	express 
+		adiciona sistema de rotas com metodos http com parâmetros
+	nodemon -D
+		Atualização automatica do node
+
+
+-exect node
+	node index.js
+
+-exemplos
+	app.use(express.json());
+	para poder utilizar json dentro dos métodos post e put
+
